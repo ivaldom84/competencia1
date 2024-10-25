@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\bin\Debug\net9.0-windows\csharp-geometria.exe
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\bin\Debug\net9.0-windows\csharp-geometria.deps.json
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\bin\Debug\net9.0-windows\csharp-geometria.runtimeconfig.json
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\bin\Debug\net9.0-windows\csharp-geometria.dll
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\bin\Debug\net9.0-windows\csharp-geometria.pdb
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.AssemblyInfo.cs
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.sourcelink.json
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.dll
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\refint\csharp-geometria.dll
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.pdb
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\csharp-geometria.genruntimeconfig.cache
+C:\Users\HP\Desktop\lenguajes-programacion\csharp-geometria\obj\Debug\net9.0-windows\ref\csharp-geometria.dll
